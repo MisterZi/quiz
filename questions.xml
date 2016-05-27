@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+
+  <question seconds='10'>
+    <text>Сколько байт в килобайте?</text>
+    <variants>
+      <variant>1000</variant>
+      <variant>2048</variant>
+      <variant right='true'>1024</variant>
+      <variant>512</variant>
+    </variants>
+  </question>
+
+  <question seconds='10'>
+    <text>Кто был первым президентом РФ?</text>
+    <variants>
+      <variant>Медведев Дмитрий Анатольевич</variant>
+      <variant>Горбачев Михаил Сергеевич</variant>
+      <variant>Путин Владимир Владимирович</variant>
+      <variant right='true'>Ельцин Борис Николаевич</variant>
+    </variants>
+  </question>
+
+  <question seconds='10'>
+    <text>Как называется в геометрии линия, делящая угол пополам?</text>
+    <variants>
+      <variant>Секущая</variant>
+      <variant right='true'>Биссектриса</variant>
+      <variant>Гипотенуза</variant>
+      <variant>Синусоида</variant>
+    </variants>
+  </question>
+
+  <question seconds='10'>
+    <text>Растение,называемое корнем жизниии?</text>
+    <variants>
+      <variant>Можжевельник</variant>
+      <variant>Лимонник</variant>
+      <variant right='true'>Женьшень</variant>
+      <variant>Тысячелистник</variant>
+    </variants>
+  </question>
+
+  <question seconds='10'>
+    <text>Какой из этих литературных докторов страдал раздвоением личности?</text>
+    <variants>
+      <variant>Доктор айболит</variant>
+      <variant right='true'>Доктор Джекил</variant>
+      <variant>Доктор Ватсон</variant>
+      <variant>Доктор Борменталь</variant>
+    </variants>
+  </question>  
+
+</questions>
